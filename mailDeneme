@@ -1,0 +1,15 @@
+#!/bin/bash
+#
+#	mailFiltering
+#Mail Checking and Outputting
+#
+
+#Checking if there is a new mail in the box
+if [ -s /var/mail/epox.mbox ]; then
+	echo "no new mail"
+else
+#write new mails to txt file and filtering to other txt
+    echo "s * mailMessageDraft.txt" | mail
+    grep "From:\|Date:\|Subject:" mailMessageDraft.txt > output.cvs
+fi
+

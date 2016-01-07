@@ -1,0 +1,67 @@
+
+
+From root@localhost  Wed Jul  8 23:55:19 2015
+Return-Path: <root@localhost>
+X-Original-To: epox@localhost
+Delivered-To: epox@localhost
+Received: from epox-VirtualBox (localhost [127.0.0.1])
+	by epox-VirtualBox (Postfix) with ESMTP id 98B988164C
+	for <epox@localhost>; Wed,  8 Jul 2015 23:55:19 +0200 (CEST)
+From: <root@localhost>
+To: <epox@localhost>
+Subject: 1
+Message-Id: <20150708215519.98B988164C@epox-VirtualBox>
+Date: Wed,  8 Jul 2015 23:55:19 +0200 (CEST)
+
+1
+
+From root@localhost  Thu Jul  9 00:22:47 2015
+Return-Path: <root@localhost>
+X-Original-To: epox@localhost
+Delivered-To: epox@localhost
+Received: from epox-VirtualBox (localhost [127.0.0.1])
+	by epox-VirtualBox (Postfix) with ESMTP id 03CCA81B2E
+	for <epox@localhost>; Thu,  9 Jul 2015 00:22:47 +0200 (CEST)
+From: <root@localhost>
+To: <epox@localhost>
+Subject: 1
+Message-Id: <20150708222247.03CCA81B2E@epox-VirtualBox>
+Date: Thu,  9 Jul 2015 00:22:47 +0200 (CEST)
+
+First daemon Try
+
+From root@localhost  Thu Jul  9 01:31:55 2015
+Return-Path: <root@localhost>
+X-Original-To: epox@localhost
+Delivered-To: epox@localhost
+Received: from epox-VirtualBox (localhost [127.0.0.1])
+	by epox-VirtualBox (Postfix) with ESMTP id 2BBF867CA6
+	for <epox@localhost>; Thu,  9 Jul 2015 01:31:55 +0200 (CEST)
+From: <root@localhost>
+To: <epox@localhost>
+Subject: 2
+Message-Id: <20150708233155.2BBF867CA6@epox-VirtualBox>
+Date: Thu,  9 Jul 2015 01:31:55 +0200 (CEST)
+X-IMAPbase: 1436401468 3
+Status: O
+X-UID: 1
+
+2
+
+From root@localhost  Thu Jul  9 01:56:31 2015
+Return-Path: <root@localhost>
+X-Original-To: epox@localhost
+Delivered-To: epox@localhost
+Received: from epox-VirtualBox (localhost [127.0.0.1])
+	by epox-VirtualBox (Postfix) with ESMTP id 5305467CA6
+	for <epox@localhost>; Thu,  9 Jul 2015 01:56:31 +0200 (CEST)
+From: <root@localhost>
+To: <epox@localhost>
+Subject: test
+Message-Id: <20150708235631.5305467CA6@epox-VirtualBox>
+Date: Thu,  9 Jul 2015 01:56:31 +0200 (CEST)
+Status: O
+X-UID: 2
+
+testing
+

@@ -1,0 +1,11 @@
+#! /bin/sh
+#Daemon for Mail Filtering 
+trap processUserSig SIGUSR1
+processUserSig() {
+  echo "doing stuff"
+}
+
+while true; do
+  /home/epox/mailDeneme
+  sleep 60
+done
